@@ -1,4 +1,4 @@
-.section-width {
+	.section-width {
   margin: auto;
   width: 846px;
 }.panel-header {
@@ -205,9 +205,13 @@
   padding: 0 12px  16px 14px;
 }
 .vertical- p {
-  font-size: 14px;
-  line-height: 1.4;
-  padding: 14px;
+	display: table-cell;
+	font-size: 21px;
+	line-height: 29px;
+	padding: 20% 55px;
+	text-align: center;
+	vertical-align: middle;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .panel-header {
   font-size: 16px;
