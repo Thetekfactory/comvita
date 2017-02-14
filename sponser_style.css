@@ -53,12 +53,12 @@
   padding: 14px;
   width: 271px;
 }.vertical- p {
-  display: table-cell;
-  font-size: 21px;
-  line-height: 29px;
-  padding: 78px;
-  text-align: center;
-  vertical-align: middle;
+	display: table-cell;
+	font-size: 21px;
+	line-height: 29px;
+	padding: 20% 36px;
+	text-align: center;
+	vertical-align: middle;
 }.vertical- {
   display: table;
   height: 100%;
